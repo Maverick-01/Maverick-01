@@ -1,18 +1,18 @@
 ### Hi there 👋
 ### "Getting Evolve!!"
-### About Me!
-Call me by **Sachin Sharma**!
+
+## About Me!
+### Call me by **Sachin Sharma**!
 ### Currently pursuing B.Sc in Computer Science 2nd year!
-Curious to know more about new tech!
-<!--
--->
-# Highlights of my work!
-I'm interested in Android development!
-My first Project is Techie Desi. it's available in repo section!
+### Curious to know more about new tech!
 
-# Skills! Java, C, DBMS, Python, Javascript (basic)
+## Highlights of my work!
+### I'm interested in Android development!
+### My first Project is Techie Desi. it's available in repo section!
 
-# Funfact! When two people care for each other are bound to get into heated conversation once in a while""
+### Skills! Java, C, DBMS, Python, Javascript (basic)
+
+### Funfact! When two people care for each other are bound to get into heated conversation once in a while""
 
 
 <!--
