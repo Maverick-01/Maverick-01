@@ -14,7 +14,10 @@
 ### Java, C, DBMS, Python, Javascript (basic)!
 
 ## Funfact! 
-### When two people care for each other are bound to get into heated conversation once in a while!
+### When two people who care for each other are bound to get into heated conversation once in a while!
+
+## How to reach me!
+### Instagram - saach_is_here
 
 
 <!--
