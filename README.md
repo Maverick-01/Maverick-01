@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### "Getting Evolve!!"
 ### About Me!
-Call me by "Sachin Sharma"!
-Currently pursuing B.Sc in Computer Science 2nd year!
+Call me by **Sachin Sharma**!
+### Currently pursuing B.Sc in Computer Science 2nd year!
 Curious to know more about new tech!
 <!--
 -->
