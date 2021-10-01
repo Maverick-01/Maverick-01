@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maverick-01" alt="maverick-01" /></a> </p>
 
-- 🔭 I’m currently working on [Sanedroid Website](Sanedroid.tech)
+- 🔭 I’m currently working on [Sanedroid Website](https://sanedroid.tech/)
 
 - 🌱 I’m currently learning **React, Android**
 
