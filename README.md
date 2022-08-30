@@ -3,7 +3,7 @@
 
 ## About Me!
 ### Call me by Sachin Sharma!
-### Currently pursuing B.Sc in Computer Science 2nd year!
+### Currently pursuing B.Sc in Computer Science 3rd year!
 ### Curious to know more about new tech!
 
 ## Highlights of my work!
@@ -44,9 +44,10 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maverick-01" alt="maverick-01" /></a> </p>
 
-- 🔭 I’m currently working on [Sanedroid Website](https://sanedroid.tech/)
+<!-- - 🔭 I’m currently working on [Sanedroid Website](https://sanedroid.tech/)-->
+- 🔭 I’m currently working on personal projects.
 
-- 🌱 I’m currently learning **React, Android**
+- 🌱 I’m currently learning **Advance Android Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
